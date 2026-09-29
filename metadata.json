@@ -1,0 +1,6 @@
+{
+  "name": "HerWell - Women's Health & Wellness Companion",
+  "description": "A calm, empowering, and holistic women's health platform for cycle tracking, PCOS/PCOD wellness, mental well-being, nutrition, and daily lifestyle insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
